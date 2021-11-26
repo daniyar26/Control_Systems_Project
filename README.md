@@ -1,2 +1,2 @@
 # Control_Systems_Project
-Program checks the color status and presence of the facemask
+Computer Vision based program that checks the COVID-19 color status from the smartphone and presence of the facemask from the camera
